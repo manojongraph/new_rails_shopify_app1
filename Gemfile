@@ -54,3 +54,8 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem "shopify_app", "~> 21.6"
+gem "shopify_api", "~> 13.1"
+gem "dotenv-rails", "~> 2.8"
+gem "react-rails", "~> 2.7"
